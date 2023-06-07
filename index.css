@@ -84,9 +84,8 @@ body a {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgba(150, 0, 0);
+    color:rgb(150, 0, 0);
     font-size:70px;
-    text-decoration:underline;
 }
 #about {
     width:10vw;
@@ -193,7 +192,7 @@ body a {
     cursor:pointer;
 }
 .container section {
-    margin:8vh 0px;
+    margin:3vh 0px;
 }
 #used div{
     font-size:14px !important;
@@ -210,11 +209,11 @@ body a {
     cursor:text;
 }
 .container h1 {
-    font-size:60px;
+    font-size:50px;
     text-decoration:underline;
 }
 .container p {
-    font-size:21px;
+    font-size:18px;
 }
 .btn_one {
     font-size:18px;
