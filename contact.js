@@ -1,5 +1,5 @@
 let form = document.getElementById("form")
-form.action = 'https://formsubmit.co/31ac8cd7b28df87b7d952999d606171a';
+form.action = 'https://formsubmit.co/moszdev@gmail.com';
 form.method = 'post';
 
 form.onsubmit = () => {
