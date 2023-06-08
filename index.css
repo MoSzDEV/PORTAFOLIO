@@ -293,7 +293,6 @@ input:-webkit-autofill:focus {
     -webkit-box-shadow: 0 0 0px 1000px #ffffff00 inset;
 }
 
-
 ::placeholder {
     color:#cececeb2;
 }
@@ -317,21 +316,21 @@ input:-webkit-autofill:focus {
     height:100vh;
 }
 ::-webkit-scrollbar {
-    width:5px;
-    height:5px;
+    width:6px;
+    height:6px;
 }
 ::-webkit-scrollbar-track {
-    background: #fff; 
+    background: #000000; 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgba(150, 0, 0); 
+    background: rgb(255, 255, 255); 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(150, 0, 0, 0.7); 
+    background: rgba(255, 255, 255, 0.7); 
 }
 ::selection {
-	color: #fff;
-	background: rgba(150, 0, 0);
+	color: #000000;
+	background: rgb(255, 255, 255);
 }
 
 @media (max-width: 800px){ 
